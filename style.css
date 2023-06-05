@@ -1,4 +1,23 @@
-header {
- background-color: rgb(17, 44, 94);
- color:orangered;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabeçalho{
+ background-color: rgb(8, 8, 107);
+ color: white;
+height: 70px ;
+}
+
+.cabeçalholista {
+ display: flex;
+    justify-content:space-between ;
+}
+.cabeçalholistaitem {
+    display: flex;
+    justify-content:space-between ;
+    margin: 0 20px;
+    padding: 20px 0;
+   font-size: 19px;
 }
