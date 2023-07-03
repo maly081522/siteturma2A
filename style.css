@@ -10,7 +10,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: self-end;
     padding: 24px 0;
 }
 .cabecalho-imagem{
